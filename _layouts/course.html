@@ -53,7 +53,7 @@
         {% for page in site.pages %}
           {% if page.layout == 'course' %}
             {% for lesson in site.pages %}
-              {% if page.id == lesson.course_slug %}
+              {% if page.id == lesson.course_slug | sort: 'id' %}
                 <li>
                   <h2 class="size-bm"><a href="{{ site.baseurl }}/courses/{{ page.id }}/lesson-{{ lesson.id }}.html">{{ lesson.title }}</a></h2>
                   <p class="size-s crs-nav-info">{{ lesson.subtitle }}</p>

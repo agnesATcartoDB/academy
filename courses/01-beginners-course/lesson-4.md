@@ -1,5 +1,6 @@
 ---
 id: 4
+order: 4
 layout: lesson
 title:  "Lesson 4"
 subtitle: "Animated Maps with Point Data"

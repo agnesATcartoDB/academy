@@ -1,5 +1,6 @@
 ---
 id: 5
+order: 5
 layout: lesson
 title:  "Lesson 5"
 subtitle: "Multilayer Visualizations"

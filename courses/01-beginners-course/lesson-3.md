@@ -1,5 +1,6 @@
 ---
 id: 3
+order: 3
 layout: lesson
 title:  "Lesson 3"
 subtitle: "Thematic Maps with Point Data"

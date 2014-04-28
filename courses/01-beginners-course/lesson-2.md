@@ -1,5 +1,6 @@
 ---
 id: 2
+order: 2
 layout: lesson
 title:  "Lesson 2"
 subtitle: "Your First Choropleth Map"

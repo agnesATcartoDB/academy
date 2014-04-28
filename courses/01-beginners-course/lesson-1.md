@@ -1,5 +1,6 @@
 ---
 id: 1
+order: 1
 layout: lesson
 title:  "Lesson 1"
 subtitle: "Making your First Map"
